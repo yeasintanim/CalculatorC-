@@ -1,0 +1,9 @@
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\SEIP.NET\Batch 20\2018.10.10\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
